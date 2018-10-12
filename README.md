@@ -53,16 +53,16 @@ More specifically, your website must include and incorporate the following featu
 **** A navigation bar that allows you to navigate to and from each of the 4 pages
 **** A unique and descriptive `<title>` for each of the 4 pages
 **** At least 3 of the header tags variations: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, and `<h6>`
-* At least 7 hyperlinks
+**** At least 7 hyperlinks
    - At least 4 internal links that use a relative URL: `<a href="/relative/url.html>` or `<a href="#id">`
-   - At least 3 external links that use an absolute URL: `<a href="https://absoluteurl.com">`
+   - At least 3 external links that use an absolute URL: `<a> href="https://absoluteurl.com">`
 **** At least 1 image per page: `<img src="/images/picture.png">`
    - All images must be stored in a folder named `images` (the use of subfolders within `images` is at your discretion)
-* At least 2 lists
+**** At least 2 lists
    - At least 1 ordered list: `<ol>`
    - At least 1 unordered list: `<ul>`
 **** At least 1 horizontal rule: `<hr/>`
-* At least 1 `<table>`
+**** At least 1 `<table>`
    - Your `<table`> must include a header (`<thead>`), a body (`<tbody>`), and a footer (`<tfoot>`)
 **** A consistent page footer on every page
    - Your footer must include the copyright symbol and year (i.e., © 2018)
