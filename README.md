@@ -59,11 +59,11 @@ Modify the website you created for Problem Set 3, and create a new and improved 
 
 More specifically, your website must include and incorporate the following features and elements.
 
-* At least 1 externally linked CSS file, which contains the vast majority of your styles.
+**** At least 1 externally linked CSS file, which contains the vast majority of your styles.
    - Your CSS file(s) should be in a folder named `styles`.
 * At least 3 inline styles per page (for one-off styles that typically aren't replicated elsewhere).
 * At least 3 different [type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors).
-* At least 3 different [class selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors).
+**** At least 3 different [class selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors).
 * At least 3 different [ID selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors).
 * At least 3 different [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors).
 * At least 1 [universal selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors).
