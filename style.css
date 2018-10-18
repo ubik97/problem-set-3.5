@@ -8,8 +8,12 @@
 
   }
 
-  @font-face {
-    font-family: 'PT Sans', sans-serif;
+  * {
+    font-family: Arial;
+  }
+
+  #page {
+    background-color: #98b1e6;
   }
 
 
@@ -18,10 +22,6 @@
 
 
 /* homepage.html styles*/
-
-  .homepage {
-    background-color: #98b1e6;
-  }
 
   .navbar {
     list-style-type: none;
