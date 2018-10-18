@@ -1,3 +1,13 @@
+/* general styles*/
+
+  hr {
+    color: #ffffff;
+  }
+
+
+/* general styles*/
+
+
 
 /* homepage.html styles*/
 
@@ -13,8 +23,9 @@
     background-color: #3366cc;
   }
 
-  .navitem {
+  .navbar a {
     float: left;
+    padding-left: 150px;
   }
 
   .navlink {
@@ -29,12 +40,9 @@
     background-color: #84a1e1;
   }
 
-
-
-
-
 /* homepage.html styles*/
-/* homepage.html styles*/
+
+
 
 /* iridescencereview.html styles*/
 /* iridescencereview.html styles*/
