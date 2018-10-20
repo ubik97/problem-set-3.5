@@ -13,6 +13,14 @@
     table-layout: fixed;
   }
 
+  h3[attr="revtitl"] {
+    font-style: italic;
+  }
+
+  h4[attr="score"] {
+    font-style: bold;
+  }
+
   * {
     font-family: Arial;
   }
@@ -45,4 +53,8 @@
 
   .navlink:hover {
     background-color: #84a1e1;
+  }
+
+  td h4 {
+    text-align: center;
   }
