@@ -8,6 +8,11 @@
     color: #00ffff;
   }
 
+  table[attr="qrtab"] {
+    width: 80%;
+    table-layout: fixed;
+  }
+
   * {
     font-family: Arial;
   }
@@ -15,13 +20,6 @@
   #page {
     background-color: #98b1e6;
   }
-
-
-/* general styles*/
-
-
-
-/* homepage.html styles*/
 
   .navbar {
     list-style-type: none;
@@ -48,16 +46,3 @@
   .navlink:hover {
     background-color: #84a1e1;
   }
-
-/* homepage.html styles*/
-
-
-
-/* iridescencereview.html styles*/
-/* iridescencereview.html styles*/
-
-/* eitherorreview.html styles*/
-/* eitherorreview.html styles*/
-
-/* quickreviews.html styles*/
-/* quickreviews.html styles*/
