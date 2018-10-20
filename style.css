@@ -7,6 +7,15 @@
     color: #00ffff;
   }
 
+  a:visited {
+    color: purple;
+  }
+
+  a:active {
+    position: relative;
+    top: 2px;
+  }
+
   table[attr="qrtab"] {
     width: 80%;
     table-layout: fixed;
@@ -28,6 +37,15 @@
     background-color: #98b1e6;
   }
 
+  #qtab {
+    border: 2pt solid white;
+  }
+
+  #scoralign {
+    text-align: center;
+    font-weight; 3;
+  }
+
   .navbar {
     list-style-type: none;
     margin: 0;
@@ -47,7 +65,6 @@
     color: white;
     padding: 14px 16px;
     text-align: center;
-
   }
 
   .navlink:hover {
@@ -55,5 +72,5 @@
   }
 
   td h4 {
-    text-align: center;
+    text-align: left;
   }

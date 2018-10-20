@@ -68,13 +68,13 @@ More specifically, your website must include and incorporate the following featu
 **** At least 3 different [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors).
 **** At least 1 [universal selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors).
 * At least 3 different [combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#Combinators).
-* At least 3 different [pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
-* A `background-color` for each page.
+**** At least 3 different [pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
+**** A `background-color` for each page.
    - If you wish, you may incorporate multiple `background-color`s on a single page.
 * A `font`, `font-size`, `font-style`, `font-weight`, `color`, and `text-decoration` for at least 1 (though not necessarily the same) text element per page.
 **** A `:hover` effect for each link.
 * Appropriate element spacing using `margin` and/or `padding` (this is understandbly subjective).
-* A `border` around at least 1 image per page.
+**** A `border` around at least 1 image per page.
    - At least 1 of your `border`s must incorporate rounded corners.
 * All `img` dimensions must be defined in the externally linked CSS page, and not as a tag attribute.
 
