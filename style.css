@@ -153,3 +153,9 @@
     padding: 0.45em;
   }
 /* image dimensions*/
+
+  .title {
+    text-decoration: underline;
+    font-size: 18pt;
+    font-weight: 5pt;
+  }
